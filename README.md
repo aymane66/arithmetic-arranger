@@ -20,13 +20,16 @@ The Arithmetic Arranger is a Python script that formats and displays arithmetic 
 
    ```bash
    git clone https://github.com/aymane66/arithmetic-arranger.git
-   cd arithmetic-arranger
+   
+.
+    ```cd arithmetic-arranger
 
 ## Run the Script:
 
 Ensure you have Python installed. Execute the script using:
 
-python main.py
+.
+    ```python main.py
 
 Modify the list of arithmetic problems in main.py to test different scenarios
 
